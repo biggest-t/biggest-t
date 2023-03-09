@@ -1,16 +1,26 @@
-### Hi there 👋
+# Hi i'm  biggest-t
 
-<!--
-**biggest-t/biggest-t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+now you may thing that that name is a complete ripoff of big T (the most handsome man on the planet) and you'd be completely  right.  but i am infact a bigger than big T *(in  what sense??)*so that makes me undoubtly the biggest T.
 
-Here are some ideas to get you started:
+anyways, jokes aside i try to have fun with coding.  nothing smart will be found here, i just do stuff because i want to.
+  
+## As for the software i use
+### I am Broke
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+so i use open source software exclusively
+
+ubuntu is my main (tho i dual boot windows)
+vim is my life/code editor
+
+### I Watch Alot Of Anime and manga
+
+I am a certified weaboo and i hate weaboos
+
+fav anime ever is a silent voice
+favorite manga ever is uhm also a silent voice
+   tho i love berserk! 
+   
+## I listen to alot of music
+music production is also one of my main hobbies along with guitar
+
+i got nothing else to say right now lol see yall
