@@ -1,6 +1,6 @@
 # Hi i'm  biggest-t
 
-now you may thing that that name is a complete ripoff of big T (the most handsome man on the planet) and you'd be completely  right.  but i am infact a bigger than big T *(in  what sense??)* so that makes me undoubtly the biggest T.
+now you may think that that name is a complete ripoff of big T (the most handsome man on the planet) and you'd be completely  right.  but i am infact a bigger than big T *(in  what sense??)* so that makes me undoubtly the biggest T.
 
 anyways, jokes aside i try to have fun with coding.  nothing smart will be found here, i just do stuff because i want to.
   
