@@ -24,3 +24,5 @@ favorite manga ever is uhm also a silent voice
 music production is also one of my main hobbies along with guitar
 
 i got nothing else to say right now lol see yall
+
+![hibari-chan](https://m.media-amazon.com/images/M/MV5BZDQ4OWY1OTgtMWExMS00NWQ1LTkwZTgtMTM0YmE4MTk3ZGEwXkEyXkFqcGdeQXVyMTI0MDMwNzU5._V1_.jpg)
